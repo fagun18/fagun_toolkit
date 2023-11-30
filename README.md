@@ -1,6 +1,12 @@
-# Fagun Toolkit
+# Fagun with Bugs Toolkit
 
-Fagun with Bugs is a Python script designed to provide various information related to websites, phones, emails, and more. It utilizes external APIs, libraries, and web scraping techniques to gather and display information. The script includes features such as obtaining website information, phone number details, email validation, DNS-related queries, internet speed testing, and more.
+Fagun with Bugs Toolkit is a versatile Python script designed to provide various information related to websites, phones, emails, and more. It offers a range of features, including website information retrieval, phone number details, email validation, DNS-related queries, internet speed testing, and more.
+
+## Documentation
+
+For the full documentation and detailed information about each feature, please visit:
+
+[Full Documentation](https://fagun18.github.io/FagunWithBugs/project/fagun_toolkit.html)
 
 ## Table of Contents
 
@@ -26,3 +32,7 @@ Before running the script, make sure to install the required dependencies. You c
 ```bash
 pip install requests beautifulsoup4 email-validator dnspython speedtest-cli
 ```
+
+
+## License
+This project is licensed under the [MIT License](https://github.com/fagun18/fagun_toolkit/blob/main/LICENSE).
